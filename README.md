@@ -71,7 +71,7 @@ melbourne-house-prices/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/melbourne-house-prices.git
+git clone https://github.com/carlo/melbourne-house-prices.git
 cd melbourne-house-prices
 ```
 
